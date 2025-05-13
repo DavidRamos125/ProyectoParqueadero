@@ -1,6 +1,7 @@
 # ProyectoParqueadero
 Proyecto educacional implementacion de un parqueadero
-Requerimientos preliminares :
+
+# Requerimientos preliminares :
 
 Una empresa puede tener uno o varios parqueaderos ubicados en diversas partes del país
 Definición de usuarios y personal administrativo del parqueadero
@@ -15,21 +16,21 @@ Detección de placas de vehículos
 Aplicación de descuentos a las tarifas
 Mostrar en Google Maps las ubicaciones de los parqueaderos por empresa
 
-Restricciones :
+# Restricciones :
 Aplicación web con MVC
 API REST
 Patrones de diseño
 Principios SOLID
 
-Plataformas Despliegue:
+# Plataformas Despliegue:
 Web
 Servicios con API - REST
 
-Entorno de desarrollo:
+# Entorno de desarrollo:
 Java - Spring Boot
 C# -.Net Core
 
-Integrantes : 
-Fabian David Ramos Acosta    	160004327
-Tian David Castro Parra     		160004333
-Brayan Camilo Clavijo Rodrigez 	160004303
+# Integrantes : 
+* Fabian David Ramos Acosta    	160004327
+* Tian David Castro Parra     		160004333
+* Brayan Camilo Clavijo Rodrigez 	160004303
